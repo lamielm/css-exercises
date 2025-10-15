@@ -11,3 +11,10 @@
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
+
+/* You can also do below, which would eliminate an extra class... Unless you needed 3+ classes with the same fonts */
+
+/* .do, .dont {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+} */
